@@ -1,4 +1,4 @@
-# SacRST
+# Sacramento Rotary Screw Trap Project
 Rotary screw trap data for the Lower American and Stanislaus River juvenile salmonid monitoring projects.
 
 Operation of rotary screw traps is part of a collaborative effort by the U.S. Fish and Wildlife Service’s Comprehensive Assessment and Monitoring Program, Pacific States Marine Fisheries Commission, and the California Department of Fish and Wildlife.
